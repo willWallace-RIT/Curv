@@ -1,0 +1,7 @@
+solar_panel
+battery_pack
+inverter
+wiring
+carpentry
+sunlight
+open_space
