@@ -1,0 +1,5 @@
+PLAN:
+- Use solar_panel for energy generation
+- Switch to DC-compatible devices
+
+Footprint Score: 3.4
