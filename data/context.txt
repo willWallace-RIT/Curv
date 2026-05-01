@@ -1,0 +1,5 @@
+[UNAVAILABLE]
+inverter
+
+[DEGRADED]
+battery_pack: 50%
