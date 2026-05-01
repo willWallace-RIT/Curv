@@ -1,0 +1,4 @@
+Provide continuous off-grid power to a mobile living space.
+Constraints:
+- Must be mobile
+- Must resist tampering
